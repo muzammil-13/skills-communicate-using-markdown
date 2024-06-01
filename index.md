@@ -9,3 +9,8 @@
 ```javascript
 var myVar="Hello World"
 ```
+
+### adding a task list
+- [x] task 1
+- [ ] task 2
+- [x] task 3 
