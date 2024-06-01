@@ -23,3 +23,5 @@ var myVar="Hello World"
 1. In the GitHub Pages section, ensure "Deploy from a branch" is selected from the Source drop-down menu, and then select main from the Branch drop-down menu as your GitHub Pages publishing source.
 1. Click the Save button.
 1. Wait about 30 seconds then refresh the page. When you see "Your site is published at ..." you can click on the link to see your published site.
+
+This site is hosted through [🔗](https://muzammil-13.github.io/skills-communicate-using-markdown/)
